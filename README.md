@@ -1,37 +1,38 @@
 
 # Badges
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/a/a)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ErikDono/a)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/a/a)
+![GitHub last commit](https://img.shields.io/github/last-commit/ErikDono/a)
 
-![GitHub followers](https://img.shields.io/github/followers/a?style=social)
+![GitHub followers](https://img.shields.io/github/followers/ErikDono?style=social)
 
 
 # a 
 
-  a 
+      a 
 
 ## Table of Contents:
-  a 
+      a 
 
 ## Installation
- a 
+      a 
 
-## Usage 
- a 
+## Usage
+      a 
 
 ## License:
-a
+      a 
 
 ## Tests Used:
- a 
+      a 
 
 ## Git Hub Info:
 ### Name
-  a
+      ErikDono
 ### Picture:
-  ![GitHubAvatar](https://avatars2.githubusercontent.com/u/1410106?v=4) 
+:beginner:![GitHubAvatar](https://avatars2.githubusercontent.com/u/61159557?v=4) 
 
 ### Email:
- a 
+      a 
 
+        

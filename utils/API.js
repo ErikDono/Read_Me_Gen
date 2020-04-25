@@ -10,8 +10,7 @@ const getAvatar = async (github) => {
 }
 const getFlag = async (github) => {
     const repoNum = await axios.get(`https://api.github.com/users/${github}`).catch(err => err)
-    console.log(repoNum.data.created_at)
-    return repoNum.data.created_at
+    return repoNum.data.public_repos
 }
 
 module.exports = {

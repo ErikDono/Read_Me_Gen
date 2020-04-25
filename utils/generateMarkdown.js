@@ -7,26 +7,33 @@ function generateMarkdown(data) {
 ![GitHub last commit](https://img.shields.io/github/last-commit/${data.github}/${data.title})\n
 ![GitHub followers](https://img.shields.io/github/followers/${data.github}?style=social)\n
 
-# ${data.title} \n
-  ${data.description} \n
+# ${ data.title} \n
+      ${ data.description} \n
 ## Table of Contents:
-  ${data.tableOfContents} \n
+      ${ data.tableOfContents} \n
 ## Installation
- ${data.Installation} \n
-## Usage 
- ${data.Usage} \n
+      ${ data.Installation} \n
+## Usage
+      ${ data.Usage} \n
 ## License:
-${data.License}\n
+      ${ data.License} \n
 ## Tests Used:
- ${data.Tests} \n
+      ${ data.Tests} \n
 ## Git Hub Info:
 ### Name
-  ${data.github}
+      ${ data.github}
 ### Picture:
-  ![GitHubAvatar](${data.profilePic}) \n
+${(() => {
+      if (data.flagImage < 20) {
+        return `:beginner:`
+      }
+      else {
+        return `:sparkle:`
+      }
+    })()}![GitHubAvatar](${data.profilePic}) \n
 ### Email:
- ${data.email} \n
-`);
+      ${ data.email} \n
+        `);
 }
 
 const writeFile = async (content) => {

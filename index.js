@@ -17,10 +17,10 @@ const init = async () => {
 
     const answers = await ask(questions)
     const avatar = await getAvatar(answers.github)
-    const flag = await getFlag(answers.github)
-    console.log(flag)
+    const repoNum = await getFlag(answers.github)
+    console.log(repoNum)
     answers.profilePic = avatar
-    answers.flagImage = flag
+    answers.flagImage = repoNum
     fileGenerator(answers)
 }
 
