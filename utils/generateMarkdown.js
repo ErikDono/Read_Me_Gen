@@ -2,7 +2,13 @@ const fs = require("fs").promises;
 
 function generateMarkdown(data) {
   return writeFile(`
-# ${data.title}
+# ${data.title} \n
+# ${data.description} \n
+# ${data.tableOfContents} \n
+# ${data.Installation} \n
+# ${data.Usage} \n
+# ${data.Liscense} \n
+# ${data.Tests} \n
 `);
 }
 
