@@ -2,7 +2,7 @@ const private = "private";
 
 module.exports = {
     start: [
-        { type: "input", name: "title", message: "What is the name of the project" },
+        { type: "input", name: "title", message: "What is the name of the repository on GitHub?" },
         { type: "input", name: "description", message: "Describe your Project" },
         { type: "input", name: "tableOfContents", message: "Care to make a table of contents?" },
         { type: "input", name: "Installation", message: "Please give us your NPM Intall Node Line" },

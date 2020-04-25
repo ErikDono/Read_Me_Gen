@@ -2,6 +2,9 @@ const fs = require("fs").promises;
 
 function generateMarkdown(data) {
   return writeFile(`
+# Badges
+![NumberOfCommits](https://img.shields.io/badge/github/commit-activity/month/${data.github}/${data.title})\n
+![NumberOfCommits](https://img.shields.io/badge//github/last-commit/${data.github}/${data.title})\n
 # ${data.title} \n
 ## Description:
   ${data.description} \n
@@ -16,6 +19,8 @@ ${data.License} \n
 ## Tests Used:
  ${data.Tests} \n
 ## Git Hub Info:
+### Name
+  ${data.github}
 ### Picture:
   ![GitHubAvatar](${data.profilePic}) \n
 ### Email:
