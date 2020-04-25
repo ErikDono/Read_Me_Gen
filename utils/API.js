@@ -1,7 +1,7 @@
 const axios = require("axios")
 
 const getPic = async () => {
-    return await axios.get("URL_GOES_HERE")
+    return await axios.get("")
 }
 
 module.exports = {

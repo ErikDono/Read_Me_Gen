@@ -10,7 +10,7 @@ const ask = async (questions_list) => {
     return results;
 }
 const gitInfo = async (git_questions) => {
-    const gitResults = await import { } from "./utils/API";
+    const gitResults = await 
 }
 
 const init = async () => {
