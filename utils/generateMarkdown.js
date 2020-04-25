@@ -21,16 +21,26 @@ function generateMarkdown(data) {
       ${ data.Tests} \n
 ## Git Hub Info:
 ### Name
-      ${ data.github}
-### Picture:
-${(() => {
-      if (data.flagImage < 20) {
-        return `:beginner:`
+  ${(() => {
+      if (data.flagImage < 5) {
+        return `:finnadie: `
+      }
+      else if (data.flagImage >= 5 && data.flagImage < 10) {
+        return `:hurtrealbad: `
+      }
+      else if (data.flagImage >= 10 && data.flagImage < 50) {
+        return `:feelsgood: `
+      }
+      else if (data.flagImage >= 50 && data.flagImage < 100) {
+        return `:goberserk: `
       }
       else {
-        return `:sparkle:`
+        return `:godmode: `
       }
-    })()}![GitHubAvatar](${data.profilePic}) \n
+
+    })()} ${data.github}
+### Picture:
+![GitHubAvatar](${data.profilePic}) \n
 ### Email:
       ${ data.email} \n
         `);
