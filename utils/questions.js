@@ -1,6 +1,7 @@
 const private = "private";
 
 module.exports =
+
     [
         { type: "input", name: "title", message: "What is the name of the repository on GitHub?" },
         { type: "input", name: "description", message: "Describe your Project" },
