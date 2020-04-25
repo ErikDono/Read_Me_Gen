@@ -3,8 +3,10 @@ const fs = require("fs").promises;
 function generateMarkdown(data) {
   return writeFile(`
 # Badges
-![NumberOfCommits](https://img.shields.io/badge/github/commit-activity/month/${data.github}/${data.title})\n
-![NumberOfCommits](https://img.shields.io/badge//github/last-commit/${data.github}/${data.title})\n
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/${data.github}/${data.title})\n
+![GitHub last commit](https://img.shields.io/github/last-commit/${data.github}/${data.title})\n
+![GitHub followers](https://img.shields.io/github/followers/${data.github}?style=social)\n
+
 # ${data.title} \n
 ## Description:
   ${data.description} \n

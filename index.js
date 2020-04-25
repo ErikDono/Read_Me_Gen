@@ -1,7 +1,7 @@
 const colors = require("colors");
 const inquirer = require("inquirer")
 const questions = require("./utils/questions");
-// const getPic = require("./utils/API")
+const { getAvatar } = require("./utils/API")
 const fileGenerator = require("./utils/generateMarkdown").generateMarkdown;
 // const gitInfoGetter = require("./utils/API");
 
@@ -15,8 +15,8 @@ const ask = async (questions_list) => {
 const init = async () => {
 
     const answers = await ask(questions.start)
-    // const avatar = await getPic()
-    // answers.profilePic = avatar
+    const avatar = await getAvatar(answers.github)
+    answers.profilePic = avatar
     fileGenerator(answers)
 }
 

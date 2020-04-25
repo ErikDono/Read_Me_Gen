@@ -1,12 +1,13 @@
 const axios = require("axios")
 
 
-const getPic = async (gitInfo) => {
-    const gitInfo = await axios.get(`https://api.github.com/users/${questions.github}`).catch(err => err)
-    return gitInfo.avatar_url
+const getAvatar = async (github) => {
+    const gitInfo = await axios.get(`https://api.github.com/users/${github}`).catch(err => err)
+    console.log(gitInfo.data.avatar_url)
+    return gitInfo.data.avatar_url
 
 }
 
 module.exports = {
-    getPic
+    getAvatar
 }
