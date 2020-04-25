@@ -1,38 +1,37 @@
 
 # Badges
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ErikDono/Read_Me_Gen)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/a/a)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ErikDono/Read_Me_Gen)
+![GitHub last commit](https://img.shields.io/github/last-commit/a/a)
 
-![GitHub followers](https://img.shields.io/github/followers/ErikDono?style=social)
+![GitHub followers](https://img.shields.io/github/followers/a?style=social)
 
 
-# Read_Me_Gen 
+# a 
 
-## Description:
-  b 
+  a 
 
 ## Table of Contents:
-  b 
+  a 
 
 ## Installation
- b 
+ a 
 
 ## Usage 
- b 
+ a 
 
 ## License:
-undefined 
+a
 
 ## Tests Used:
- b 
+ a 
 
 ## Git Hub Info:
 ### Name
-  ErikDono
+  a
 ### Picture:
-  ![GitHubAvatar](https://avatars2.githubusercontent.com/u/61159557?v=4) 
+  ![GitHubAvatar](https://avatars2.githubusercontent.com/u/1410106?v=4) 
 
 ### Email:
- b 
+ a 
 

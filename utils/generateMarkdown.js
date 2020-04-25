@@ -8,7 +8,6 @@ function generateMarkdown(data) {
 ![GitHub followers](https://img.shields.io/github/followers/${data.github}?style=social)\n
 
 # ${data.title} \n
-## Description:
   ${data.description} \n
 ## Table of Contents:
   ${data.tableOfContents} \n
@@ -17,7 +16,7 @@ function generateMarkdown(data) {
 ## Usage 
  ${data.Usage} \n
 ## License:
-${data.License} \n
+${data.License}\n
 ## Tests Used:
  ${data.Tests} \n
 ## Git Hub Info:
