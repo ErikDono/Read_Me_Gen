@@ -15,7 +15,7 @@
 * [Node-JS and My Thought Process](#Node-JS-and-My-Thought-Process)
 * [Pictures and Descriptions](#Pictures-and-Descriptions)
 * [Function Video](#Function-Video)
-* [Installation] (#Installation)
+* [Installation](#Installation)
 * [Usage](#Usage)
 * [License](#License)
 * [Tests Used](#Tests-Used)
