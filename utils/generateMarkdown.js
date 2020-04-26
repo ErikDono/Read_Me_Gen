@@ -11,18 +11,18 @@ function generateMarkdown(data) {
       ${ data.description} \n
 ## Table of Contents:
 
-  * ${ data.tableOfContents}(#${data.tableOfContents})\n
+  * ${data.tableOfContents}(#${data.tableOfContents})\n
   * [Installation](#Installation) 
   * [Usage](#Usage)
   * [License](#License)
-  * [Tests-Used](#Tests-Used)
+  * [Tests Used](#Tests-Used)
   * [Contribution](#Contribution)
   * [Bugs](#Bugs)
-  * [Future-Deploys](#Future-Deploys)
-  * [GitHub-Info](#GitHub-Info)
+  * [Future Deploys](#Future-Deploys)
+  * [GitHub Info](#GitHub-Info)
 
-## ${ data.tableOfContents}
-  add some test here! 
+## ${data.tableOfContents}
+  add some text here! 
 
 ## Installation:
       ${ data.Installation} \n

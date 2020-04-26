@@ -18,14 +18,14 @@
   * [Installation](#Installation) 
   * [Usage](#Usage)
   * [License](#License)
-  * [Tests-Used](#Tests-Used)
+  * [Tests Used](#Tests-Used)
   * [Contribution](#Contribution)
   * [Bugs](#Bugs)
-  * [Future-Deploys](#Future-Deploys)
-  * [GitHub-Info](#GitHub-Info)
+  * [Future Deploys](#Future-Deploys)
+  * [GitHub Info](#GitHub-Info)
 
 ## a
-  add some test here! 
+  add some text here! 
 
 ## Installation:
       a 
