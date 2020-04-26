@@ -12,9 +12,17 @@
       This is a Read Me generator that runs in terminal, and allows you to create a great looking md file with low effort! 
 
 ## Table of Contents:
-    * Node JS and My Thought Process 
-    * Pictures and Descriptions
-    * Function Video 
+* Node JS and My Thought Process 
+* Pictures and Descriptions
+* Function Video 
+* Installation 
+* Usage    
+* License
+* Tests Used
+* Contribution
+* Bugs
+* Future Deploys
+* GitHub Info
 
 
 

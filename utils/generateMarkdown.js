@@ -10,7 +10,17 @@ function generateMarkdown(data) {
 # ${ data.title} \n
       ${ data.description} \n
 ## Table of Contents:
-      ${ data.tableOfContents} \n
+
+  * ${ data.tableOfContents}(#${data.tableOfContents})\n
+  * [Installation](#Installation) 
+  * [Usage](#Usage)
+  * [License](#License)
+  * [Tests Used](#Tests Used)
+  * [Contribution](#Contribution)
+  * [Bugs](#Bugs)
+  * [Future Deploys](#Future Deploys)
+  * [GitHub Info](#GitHub Info)
+
 ## Installation:
       ${ data.Installation} \n
 ## Usage:
@@ -26,7 +36,7 @@ function generateMarkdown(data) {
 ## Future Deploys:
       ${data.future}\n
 
-## Git Hub Info:
+## GitHub Info:
 ### Name
   ${(() => {
       if (data.flagImage < 5) {
@@ -57,7 +67,7 @@ function generateMarkdown(data) {
 }
 
 const writeFile = async (content) => {
-  const write = await fs.writeFile("ReadMe1.md", content, { options: { encoding: "utf-8" } })
+  const write = await fs.writeFile("ReadMe1.md", content, { options: { encoding: "utf-8" } }).catch(err => err)
   console.log("Check out your ReadMe!")
 }
 module.exports = {
