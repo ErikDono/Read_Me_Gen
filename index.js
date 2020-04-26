@@ -1,5 +1,6 @@
-const colors = require("colors");
-const inquirer = require("inquirer")
+// const { ask } = require("./utils/questions")
+// was trying to move ask to questions.js.
+const inquirer = require("inquirer");
 const questions = require("./utils/questions");
 const { getAvatar } = require("./utils/API")
 const { getFlag } = require("./utils/API")

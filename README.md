@@ -14,10 +14,10 @@
 ## Table of Contents:
       a 
 
-## Installation
+## Installation:
       a 
 
-## Usage
+## Usage:
       a 
 
 ## License:
@@ -26,6 +26,13 @@
 ## Tests Used:
       a 
 
+## Bugs:
+      a
+
+## Future Deploys:
+      a
+
+
 ## Git Hub Info:
 ### Name
   :feelsgood:  a
@@ -33,10 +40,10 @@
 ![GitHubAvatar](https://avatars2.githubusercontent.com/u/1410106?v=4) 
 
 ### Contributors: 
-      erikdono
-      https://avatars2.githubusercontent.com/u/61159557?v=4
+      a
+      https://avatars2.githubusercontent.com/u/1410106?v=4
 
 ### Email:
-      s 
+      a 
 
         
