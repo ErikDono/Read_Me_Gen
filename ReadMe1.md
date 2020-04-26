@@ -1,52 +1,52 @@
 
 # Badges
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/a/a)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Katsu/Hana)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/a/a)
+![GitHub last commit](https://img.shields.io/github/last-commit/Katsu/Hana)
 
-![GitHub followers](https://img.shields.io/github/followers/a?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Katsu?style=social)
 
 
-# a 
+# Hana 
 
-      a 
+      Dog food tracker 
 
 ## Table of Contents:
-      a 
+      yes 
 
 ## Installation:
-      a 
+      you 
 
 ## Usage:
-      a 
+      2 
 
 ## License:
-      a 
+      Book 
 
 ## Tests Used:
-      a 
+      none 
 
 ## Contribution:
-      a
+      online
 
 ## Bugs:
-      a
+      none
 
 ## Future Deploys:
-      a
+      track for multiple dogs
 
 
 ## Git Hub Info:
 ### Name
-  :feelsgood:  a
+  :finnadie:  Katsu
 ### Picture:
-![GitHubAvatar](https://avatars2.githubusercontent.com/u/1410106?v=4) 
+![GitHubAvatar](https://avatars0.githubusercontent.com/u/314532?v=4) 
 
 ### Contributors: 
-      a
+      A
 ![GitHubAvatar](https://avatars2.githubusercontent.com/u/1410106?v=4)
 
 ### Email:
-      a 
+      b 
 
         
