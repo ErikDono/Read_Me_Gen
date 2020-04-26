@@ -21,7 +21,7 @@ function generateMarkdown(data) {
   * Future Deploys [FutureDeploys](#Future Deploys)
   * GitHub Info [GitHubInfo](#GitHub Info)
 
-##${ data.tableOfContents}
+## ${ data.tableOfContents}
   add some test here! 
 
 ## Installation:
