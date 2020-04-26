@@ -57,7 +57,7 @@ function generateMarkdown(data) {
 }
 
 const writeFile = async (content) => {
-  const write = await fs.writeFile("README.md", content, { options: { encoding: "utf-8" } })
+  const write = await fs.writeFile("ReadMe1.md", content, { options: { encoding: "utf-8" } })
   console.log("Check out your ReadMe!")
 }
 module.exports = {
