@@ -24,34 +24,34 @@
 
 ## Pictures and Descriptions 
 
-![APIphoto]("/assets/api.png)
+![APIphoto](/assets/api.png)
 
 ``` API module ```
 
-![APIphoto]("/assets/index.png)
+![APIphoto](/assets/index.png)
 
 ``` Main Index ```
 
-![APIphoto](".assets/interpolation.png)
+![APIphoto](assets/interpolation.png)
 
 ``` Interpolation for Read ME on Generate Markdown Module```
 
-![APIphoto]("/assets/questions.png)
+![APIphoto](/assets/questions.png)
 
 ``` Seperate Questions Module ```
 
-![APIphoto]("/assets/readmescreen.png)
+![APIphoto](/assets/readmescreen.png)
 
 ``` A Screenshot of a basic generated ReadMe file``` 
 
-![APIphoto]("/assets/writeme.png)
+![APIphoto](/assets/writeme.png)
 
 ``` Photo of the writeme method on the Generate Markdown Module ```
 
 
 ## Function Video 
 
-![FunctionVideo]("/assets/function.mov)
+![FunctionVideo](/assets/function.mov)
 
 ## Installation
       This  uses Inquier and Axios, but you should just be able to run NPM Install 
