@@ -24,7 +24,7 @@
 
 ## Pictures and Descriptions 
 
-![APIphoto](/assets/api.png)
+![APIphoto](/assets/API.png)
 
 ``` API module ```
 
@@ -51,7 +51,7 @@
 
 ## Function Video 
 
-![FunctionVideo](/assets/function.mov)
+![FunctionVideo](/assets/function.gif)
 
 ## Installation
       This  uses Inquier and Axios, but you should just be able to run NPM Install 
