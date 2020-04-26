@@ -21,7 +21,7 @@
 * [Tests Used](#Tests-Used)
 * [Contribution](#Contribution)
 * [Bugs](#Bugs)
-* [Future-Deploys](#Future-Deploys)
+* [Future Deploys](#Future-Deploys)
 * [GitHub Info](#GitHub-Info)
 
 
