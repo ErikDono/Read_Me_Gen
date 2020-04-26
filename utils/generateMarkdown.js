@@ -11,14 +11,19 @@ function generateMarkdown(data) {
       ${ data.description} \n
 ## Table of Contents:
       ${ data.tableOfContents} \n
-## Installation
+## Installation:
       ${ data.Installation} \n
-## Usage
+## Usage:
       ${ data.Usage} \n
 ## License:
       ${ data.License} \n
 ## Tests Used:
       ${ data.Tests} \n
+## Bugs:
+      ${data.bugs}\n
+## Future Deploys:
+      ${data.future}\n
+
 ## Git Hub Info:
 ### Name
   ${(() => {

@@ -10,6 +10,8 @@ module.exports =
         { type: "input", name: "Usage", message: "What is the project's usage?" },
         { type: "input", name: "License", message: "What is the license?" },
         { type: "input", name: "Tests", message: "What test have you made?" },
+        { type: "input", name: "bugs", message: "What bugs do you have at the moment?" },
+        { type: "input", name: "future", message: "What does the future hold for this project?" },
         { type: "input", name: "github", message: "What is your name on GitHub?" },
         { type: "input", name: "contributors", message: "Who helped contribute to the project?" },
         { type: "input", name: "email", message: "What is your Email address on GitHub?" }
