@@ -13,6 +13,7 @@ module.exports =
         { type: "input", name: "License", message: "What is the license?" },
         { type: "input", name: "Tests", message: "What test have you made?" },
         { type: "input", name: "bugs", message: "What bugs do you have at the moment?" },
+        { type: "input", name: "help", message: "How can people contribute to the code?" },
         { type: "input", name: "future", message: "What does the future hold for this project?" },
         { type: "input", name: "github", message: "What is your name on GitHub?(Necessary Answer!)" },
         { type: "input", name: "contributors", message: "Who helped contribute to the project?(Necessary Answer!)" },

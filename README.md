@@ -26,6 +26,8 @@
 ## Tests Used:
       a 
 
+## Contribution:
+      a
 ## Bugs:
       a
 
@@ -41,7 +43,7 @@
 
 ### Contributors: 
       a
-      https://avatars2.githubusercontent.com/u/1410106?v=4
+![GitHubAvatar](https://avatars2.githubusercontent.com/u/1410106?v=4)
 
 ### Email:
       a 

@@ -37,8 +37,9 @@
 ![APIphoto]("./assets/writeme.png)
 ``` Photo of the writeme method on the Generate Markdown Module ```
 
-
 ## Function Video 
+
+![FunctionVideo]("./assets/function.mov)
 
 ## Installation
       This  uses Inquier and Axios, but you should just be able to run NPM Install 
@@ -51,6 +52,18 @@
 
 ## Tests Used:
       none, but maybe soon! 
+
+## Contribution:
+      Feel free to email me, and ask for permission. 
+
+## Bugs:
+      You cannot skip either GitHub line, as the axios catch error did not work as intended. Also, you cannot enter more than one contributor at this point.
+
+## Future Deploys:
+      I would like to move ask to the questions page, as i know it is possible, and i feel like i came very close. 
+
+      I would also like to make the applciation take in multiple names for contributors. I think it would be a forEach... but i am unsure. 
+
 
 ## Git Hub Info:
 ### Name

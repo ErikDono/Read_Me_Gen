@@ -19,6 +19,8 @@ function generateMarkdown(data) {
       ${ data.License} \n
 ## Tests Used:
       ${ data.Tests} \n
+## Contribution:
+      ${data.help}\n
 ## Bugs:
       ${data.bugs}\n
 ## Future Deploys:
