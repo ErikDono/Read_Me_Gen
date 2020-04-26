@@ -76,6 +76,8 @@
 
       I would also like to make the applciation take in multiple names for contributors. I think it would be a forEach... but i am unsure. 
 
+      I would also like to make a functionable html modlue that will create an hmtl page with the ReadMe's info, so that you can edit it.  
+
 
 ## Git Hub Info:
 ### Name

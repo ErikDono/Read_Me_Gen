@@ -5,6 +5,7 @@ const questions = require("./utils/questions");
 const { getAvatar } = require("./utils/API")
 const { getFlag } = require("./utils/API")
 const { getContributor } = require("./utils/API")
+// const { makehtml } = require("./utils/html")
 const fileGenerator = require("./utils/generateMarkdown").generateMarkdown;
 
 
@@ -26,6 +27,8 @@ const init = async () => {
     answers.profilePic = avatar
     answers.flagImage = repoNum
     fileGenerator(answers)
+
+    // makehtml()
 }
 
 init();
