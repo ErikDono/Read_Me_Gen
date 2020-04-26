@@ -15,7 +15,8 @@ const getFlag = async (github) => {
 }
 const getContributor = async (contributors) => {
     const Contriubtor = await axios.get(`https://api.github.com/users/${contributors}`).catch(err => err)
-    return Contriubtor.data.Login
+    console.log(Contriubtor.data.avatar_url)
+    return Contriubtor.data.avatar_url
 }
 
 
