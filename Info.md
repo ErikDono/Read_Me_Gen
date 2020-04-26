@@ -24,10 +24,24 @@
 
 ## Pictures and Descriptions 
 
+![APIphoto]("./assets/api.png)
+``` API module ```
+![APIphoto]("./assets/index.png)
+``` Main Index ```
+![APIphoto]("./assets/interpolation.png)
+``` Interpolation for Read ME on Generate Markdown Module```
+![APIphoto]("./assets/questions.png)
+``` Seperate Questions Module ```
+![APIphoto]("./assets/readmescreen.png)
+``` A Screenshot of a basic generated ReadMe file``` 
+![APIphoto]("./assets/writeme.png)
+``` Photo of the writeme method on the Generate Markdown Module ```
+
+
 ## Function Video 
 
 ## Installation
-      NPM Install should work fine! 
+      This  uses Inquier and Axios, but you should just be able to run NPM Install 
 
 ## Usage
       Users can feel free to put their items in, and make a basic template for thir readme file in their bash/terminal.  
