@@ -1,38 +1,41 @@
 
 # Badges
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ErikDono/Read_Me_Generator)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/a/a)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ErikDono/Read_Me_Generator)
+![GitHub last commit](https://img.shields.io/github/last-commit/a/a)
 
-![GitHub followers](https://img.shields.io/github/followers/ErikDono?style=social)
+![GitHub followers](https://img.shields.io/github/followers/a?style=social)
 
 
-# Read_Me_Generator 
+# a 
 
-      This is a Read Me generator that runs in terminal, and allows you to create a great looking md file with low effort! 
+      a 
 
 ## Table of Contents:
-      * Node JS and My Thought Process \n * Pictures and Descriptions \n * Function Video 
+      a 
 
 ## Installation
-      NPM Install should work fine! 
+      a 
 
 ## Usage
-      Users can feel free to put their items in, and make a basic template for thir readme file in their bash/terminal.  
+      a 
 
 ## License:
-      1.0.0 
+      a 
 
 ## Tests Used:
-      none, but maybe soon! 
+      a 
 
 ## Git Hub Info:
 ### Name
-  :feelsgood:  ErikDono
+  :feelsgood:  a
 ### Picture:
-![GitHubAvatar](https://avatars2.githubusercontent.com/u/61159557?v=4) 
+![GitHubAvatar](https://avatars2.githubusercontent.com/u/1410106?v=4) 
+
+### Contributors: 
+      a
 
 ### Email:
-      erik.dono@gmail.com 
+      a 
 
         

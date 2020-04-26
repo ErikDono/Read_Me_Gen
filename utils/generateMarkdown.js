@@ -41,6 +41,8 @@ function generateMarkdown(data) {
     })()} ${data.github}
 ### Picture:
 ![GitHubAvatar](${data.profilePic}) \n
+### Contributors: 
+      ${data.contributors}\n
 ### Email:
       ${ data.email} \n
         `);

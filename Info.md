@@ -20,7 +20,7 @@
 
 ## Node JS and My Thought Process 
 
-    This Read Me generator was very fun to make, and allowed me to really dig into aynch functions. I dislike crowded code, so i made modules for each page based off of the main objects of the assignment. first,
+    This ReadMe generator was very fun to make, and allowed me to really dig into asynchronous methods and their paths. I dislike crowded code, so I first made modules for each page based off of the main objectives of the assignment. I knew that I would need a list of questions, a write file method that includes a string interpolation for the ReadMe, and an axios call for the API in order to obtain the user’s git hub information. Each of these objectives have their own page, which made my index.js page much more concise.  Each page has its own method, that uses information from user’s input through inquire. Please see my photos for more details on each page. 
 
 ## Pictures and Descriptions 
 
