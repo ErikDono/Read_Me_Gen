@@ -11,9 +11,16 @@ const getAvatar = async (github) => {
 const getFlag = async (github) => {
     const repoNum = await axios.get(`https://api.github.com/users/${github}`).catch(err => err)
     return repoNum.data.public_repos
+
 }
+const getContributor = async (contributors) => {
+    const Contriubtor = await axios.get(`https://api.github.com/users/${contributors}`).catch(err => err)
+    return Contriubtor.data.Login
+}
+
 
 module.exports = {
     getAvatar,
-    getFlag
+    getFlag,
+    getContributor
 }
